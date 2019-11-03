@@ -1,3 +1,5 @@
 Edit direct in GitHub
 Second line added direct i GitHub
 This edit was done directly in Github on file in (I hope) branch1
+2. Having merged the change back into master, I created a new branch (branch2)
+and then downloaded to the laptop. I did this edit 2.
